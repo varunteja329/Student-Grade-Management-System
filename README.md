@@ -1,7 +1,7 @@
 # Student-Grade-Management-System
 A full-stack web application to manage student grades.
 
-Frontend: React + Material-UI
+Frontend: React
 
 Backend: Node.js + Express
 
@@ -15,9 +15,6 @@ View all students in a clean table with percentage calculation
 
 Edit or Delete student records
 
-Success & error notifications with Snackbar
-
-Responsive design with Material-UI
 
 🚀 Tech Stack
 
